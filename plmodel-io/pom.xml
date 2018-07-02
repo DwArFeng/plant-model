@@ -10,8 +10,8 @@
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
 
-	<artifactId>plmodel-basic</artifactId>
-	<name>plmodel-basic</name>
+	<artifactId>plmodel-io</artifactId>
+	<name>plmodel-io</name>
 	<url>http://maven.apache.org</url>
 
 	<properties>
